@@ -52,7 +52,7 @@ let MODEL_LIST = llmManager.getModelList();
  *    name: 'Ollama',
  *    staticModels: [
  * {
- *        name: 'qwen2.5-coder-ottodev:7b',
+ *        name: 'qwen2.5-coder:7b',
  *        label: 'otto',
  *        provider: 'altro',
  *        maxTokenAllowed: 32768,
